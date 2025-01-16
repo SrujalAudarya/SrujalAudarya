@@ -12,9 +12,6 @@ Passionate about Web Development, App Development.
 - Languages: JavaScript, Python, C++, Java, C, SQL, Firebase
 - Tools: Git, Android Studio, VS Code]
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/srujal-audarya)
 - [Instagram](https://www.instagram.com/)
