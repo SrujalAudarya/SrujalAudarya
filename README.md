@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-I'm Srujal Audarya,
+# Hi there! I'm Srujal Audarya,
 
 ## 🌟 About Me
 Enthusiastic engineering Diploma with basic knowledge in coding and design. Proficient in C, C++, Java, HTML, SQL, Python, and Android. Ability to learn new software and technologies quickly. Capable of working in teams by providing valuable support.
