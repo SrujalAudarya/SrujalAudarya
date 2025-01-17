@@ -13,3 +13,9 @@ Passionate about Web Development, App Development.
 ## 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/srujal-audarya)
 - [Instagram](https://www.instagram.com/)
+
+- ## GitHub Profile Summary
+
+![Summary](https://raw.githubusercontent.com/SrujalAudarya/output/0-profile-details.svg)
+![Languages](https://raw.githubusercontent.com/SrujalAudarya/output/1-most-used-languages.svg)
+![Stats](https://raw.githubusercontent.com/SrujalAudarya/output/2-stats.svg)
