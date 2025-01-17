@@ -1,7 +1,7 @@
 # Hi there! I'm Srujal Audarya,
 
 ## 🌟 About Me
-Enthusiastic engineering Diploma with basic knowledge in coding and design. Proficient in C, C++, Java, HTML, SQL, Python, and Android. Ability to learn new software and technologies quickly. Capable of working in teams by providing valuable support.
+I am a BE student in the Computer Science and Engineering (CSE) branch at SSGMCE College. I have a strong ability to learn new software and technologies quickly and enjoy working in teams, where I contribute valuable support. My interests lie in Android and web development, and I am passionate about building innovative solutions.
 
 ## 🚀 Interests: 
 Passionate about Web Development and also App Development.
