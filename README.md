@@ -13,9 +13,3 @@ Passionate about Web Development, App Development.
 ## 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/srujal-audarya)
 - [Instagram](https://www.instagram.com/)
-
-- ## GitHub Profile Summary
-
-![Summary](https://raw.githubusercontent.com/SrujalAudarya/innova24/output/0-profile-details.svg)
-![Languages](https://raw.githubusercontent.com/SrujalAudarya/Annapurna/output/1-most-used-languages.svg)
-![Stats](https://raw.githubusercontent.com/SrujalAudarya/Carrier_Guidance_Chatbot/output/2-stats.svg)
