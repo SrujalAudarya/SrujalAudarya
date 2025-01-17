@@ -8,7 +8,7 @@ Passionate about Web Development and also App Development.
 
 ## 🚀 Skills
 - Languages: JavaScript, Python, C++, Java, C, SQL, Firebase
-- Tools: Git, Android Studio, VS Code
+- Tools: Git, Android Studio, VS Code, Sublime text
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/srujal-audarya)
