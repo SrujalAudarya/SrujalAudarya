@@ -16,6 +16,6 @@ Passionate about Web Development, App Development.
 
 - ## GitHub Profile Summary
 
-![Summary](https://raw.githubusercontent.com/SrujalAudarya/output/0-profile-details.svg)
-![Languages](https://raw.githubusercontent.com/SrujalAudarya/output/1-most-used-languages.svg)
-![Stats](https://raw.githubusercontent.com/SrujalAudarya/output/2-stats.svg)
+![Summary](https://raw.githubusercontent.com/SrujalAudarya/innova24/output/0-profile-details.svg)
+![Languages](https://raw.githubusercontent.com/SrujalAudarya/Annapurna/output/1-most-used-languages.svg)
+![Stats](https://raw.githubusercontent.com/SrujalAudarya/Carrier_Guidance_Chatbot/output/2-stats.svg)
