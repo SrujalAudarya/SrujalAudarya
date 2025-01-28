@@ -7,7 +7,7 @@ I am a BE student in the Computer Science and Engineering (CSE) branch at SSGMCE
 Passionate about Web Development and also App Development.
 
 ## 🚀 Skills
-- Languages: JavaScript, Python, C++, Java, C, SQL, Firebase
+- Languages: HTML, JavaScript, Python, C++, Java, C, SQL, Firebase
 - Tools: Git, Android Studio, VS Code, Sublime text
 
 ## 🌐 Connect With Me
