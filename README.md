@@ -36,18 +36,6 @@ I'm a third-year Computer Science & Engineering student who loves building Andro
 
 ---
 
-## 📱 Featured Projects
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 📖 [**PDF Reader**](https://github.com/SrujalAudarya/PDF-Reader) | Android app for reading PDFs with native viewer | Java, Android |
-| 💬 [**WhatsApp UI Clone**](https://github.com/SrujalAudarya/WhatsApp-Clone) | A clean UI clone of WhatsApp layout using RecyclerViews | Java, Android |
-| 🏫 [**GBJPortal**](https://github.com/SrujalAudarya/GBJPortal) | College ERP-style app with login, dashboard, and student services | Android, Firebase |
-
-> 🔗 More projects: [View all repositories →](https://github.com/SrujalAudarya?tab=repositories)
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
