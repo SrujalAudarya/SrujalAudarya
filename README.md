@@ -36,16 +36,6 @@ I'm a third-year Computer Science & Engineering student who loves building Andro
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrujalAudarya&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center"><i>Total commits this year (public + private)</i></p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
