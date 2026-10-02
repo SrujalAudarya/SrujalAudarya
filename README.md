@@ -48,7 +48,7 @@ I enjoy creating scalable apps, learning new technologies, and solving real-worl
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.srujalaudarya.me">Portfolio</a> •
+<a href="https://srujal-portfolio.vercel.app/">Portfolio</a> •
 <a href="https://linkedin.com/in/srujal-audarya-172b59248/">LinkedIn</a> •
 <a href="mailto:srujal.audarya@gmail.com">Email</a> •
 <a href="https://github.com/SrujalAudarya">GitHub</a>
